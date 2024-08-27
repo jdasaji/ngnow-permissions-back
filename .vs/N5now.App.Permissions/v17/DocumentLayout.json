@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jsdan\\OneDrive\\Fuentes_Trabajo\\n5now-dofuscator\\N5now.App.Permissions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3ECB1D-E20F-4454-BAEB-B52BAA8DE8C0}|N5now.App.Permissions.Api\\N5now.App.Permissions.Api.csproj|c:\\users\\jsdan\\onedrive\\fuentes_trabajo\\n5now-dofuscator\\n5now.app.permissions\\n5now.app.permissions.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB3ECB1D-E20F-4454-BAEB-B52BAA8DE8C0}|N5now.App.Permissions.Api\\N5now.App.Permissions.Api.csproj|solutionrelative:n5now.app.permissions.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3ECB1D-E20F-4454-BAEB-B52BAA8DE8C0}|N5now.App.Permissions.Api\\N5now.App.Permissions.Api.csproj|c:\\users\\jsdan\\onedrive\\fuentes_trabajo\\n5now-dofuscator\\n5now.app.permissions\\n5now.app.permissions.api\\controllers\\permissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3ECB1D-E20F-4454-BAEB-B52BAA8DE8C0}|N5now.App.Permissions.Api\\N5now.App.Permissions.Api.csproj|solutionrelative:n5now.app.permissions.api\\controllers\\permissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jsdan\\OneDrive\\Fuentes_Trabajo\\n5now-dofuscator\\N5now.App.Permissions\\N5now.App.Permissions.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "N5now.App.Permissions.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\jsdan\\OneDrive\\Fuentes_Trabajo\\n5now-dofuscator\\N5now.App.Permissions\\N5now.App.Permissions.Api\\appsettings.json",
+              "RelativeToolTip": "N5now.App.Permissions.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-27T04:04:29.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PermissionsController.cs",
+              "DocumentMoniker": "C:\\Users\\jsdan\\OneDrive\\Fuentes_Trabajo\\n5now-dofuscator\\N5now.App.Permissions\\N5now.App.Permissions.Api\\Controllers\\PermissionsController.cs",
+              "RelativeDocumentMoniker": "N5now.App.Permissions.Api\\Controllers\\PermissionsController.cs",
+              "ToolTip": "C:\\Users\\jsdan\\OneDrive\\Fuentes_Trabajo\\n5now-dofuscator\\N5now.App.Permissions\\N5now.App.Permissions.Api\\Controllers\\PermissionsController.cs",
+              "RelativeToolTip": "N5now.App.Permissions.Api\\Controllers\\PermissionsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:42:37.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

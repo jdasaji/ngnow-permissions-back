@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\N5now.App.Permissions.Api.props" />
+</Project>

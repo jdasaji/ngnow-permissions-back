@@ -1,0 +1,11 @@
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Features.Test\bin\Debug\net8.0\N5now.App.Permissions.Features.Test.deps.json
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Features.Test\bin\Debug\net8.0\N5now.App.Permissions.Features.Test.dll
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Features.Test\bin\Debug\net8.0\N5now.App.Permissions.Features.Test.pdb
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Features.Test\obj\Debug\net8.0\N5now.App.Permissions.Features.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Features.Test\obj\Debug\net8.0\N5now.App.Permissions.Features.Test.AssemblyInfoInputs.cache
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Features.Test\obj\Debug\net8.0\N5now.App.Permissions.Features.Test.AssemblyInfo.cs
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Features.Test\obj\Debug\net8.0\N5now.App.Permissions.Features.Test.csproj.CoreCompileInputs.cache
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Features.Test\obj\Debug\net8.0\N5now.App.Permissions.Features.Test.dll
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Features.Test\obj\Debug\net8.0\refint\N5now.App.Permissions.Features.Test.dll
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Features.Test\obj\Debug\net8.0\N5now.App.Permissions.Features.Test.pdb
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Features.Test\obj\Debug\net8.0\ref\N5now.App.Permissions.Features.Test.dll

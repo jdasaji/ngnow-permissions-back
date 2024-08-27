@@ -1,0 +1,11 @@
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Kafka\bin\Debug\net8.0\N5now.App.Permissions.Kafka.deps.json
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Kafka\bin\Debug\net8.0\N5now.App.Permissions.Kafka.dll
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Kafka\bin\Debug\net8.0\N5now.App.Permissions.Kafka.pdb
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Kafka\obj\Debug\net8.0\N5now.App.Permissions.Kafka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Kafka\obj\Debug\net8.0\N5now.App.Permissions.Kafka.AssemblyInfoInputs.cache
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Kafka\obj\Debug\net8.0\N5now.App.Permissions.Kafka.AssemblyInfo.cs
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Kafka\obj\Debug\net8.0\N5now.App.Permissions.Kafka.csproj.CoreCompileInputs.cache
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Kafka\obj\Debug\net8.0\N5now.App.Permissions.Kafka.dll
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Kafka\obj\Debug\net8.0\refint\N5now.App.Permissions.Kafka.dll
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Kafka\obj\Debug\net8.0\N5now.App.Permissions.Kafka.pdb
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Kafka\obj\Debug\net8.0\ref\N5now.App.Permissions.Kafka.dll

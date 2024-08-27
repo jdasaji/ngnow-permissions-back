@@ -1,0 +1,17 @@
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Repository\bin\Debug\net8.0\N5now.App.Permissions.Repository.deps.json
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Repository\bin\Debug\net8.0\N5now.App.Permissions.Repository.dll
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Repository\bin\Debug\net8.0\N5now.App.Permissions.Repository.pdb
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Repository\obj\Debug\net8.0\N5now.App.Permissions.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Repository\obj\Debug\net8.0\N5now.App.Permissions.Repository.AssemblyInfoInputs.cache
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Repository\obj\Debug\net8.0\N5now.App.Permissions.Repository.AssemblyInfo.cs
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Repository\obj\Debug\net8.0\N5now.App.Permissions.Repository.csproj.CoreCompileInputs.cache
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Repository\obj\Debug\net8.0\N5now.App.Permissions.Repository.dll
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Repository\obj\Debug\net8.0\refint\N5now.App.Permissions.Repository.dll
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Repository\obj\Debug\net8.0\N5now.App.Permissions.Repository.pdb
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Repository\obj\Debug\net8.0\ref\N5now.App.Permissions.Repository.dll
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Repository\bin\Debug\net8.0\N5now.App.Permissions.DataLayer.dll
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Repository\bin\Debug\net8.0\N5now.App.Permissions.Domain.dll
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Repository\bin\Debug\net8.0\N5now.App.Permissions.DataLayer.pdb
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Repository\bin\Debug\net8.0\N5now.App.Permissions.Domain.pdb
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Repository\obj\Debug\net8.0\N5now.App.Permissions.Repository.csproj.AssemblyReference.cache
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Repository\obj\Debug\net8.0\N5now.Ap.EB63CDBD.Up2Date

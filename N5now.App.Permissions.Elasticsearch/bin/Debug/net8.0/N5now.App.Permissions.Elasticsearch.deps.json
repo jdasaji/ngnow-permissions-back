@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "N5now.App.Permissions.Elasticsearch/1.0.0": {
+        "runtime": {
+          "N5now.App.Permissions.Elasticsearch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "N5now.App.Permissions.Elasticsearch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

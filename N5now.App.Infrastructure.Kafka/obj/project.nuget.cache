@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "TTQemIqz3ng=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jsdan\\OneDrive\\Fuentes_Trabajo\\n5now-dofuscator\\N5now.App.Permissions\\N5now.App.Infrastructure.Kafka\\N5now.App.Infrastructure.Kafka.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jsdan\\.nuget\\packages\\confluent.kafka\\2.5.2\\confluent.kafka.2.5.2.nupkg.sha512",
+    "C:\\Users\\jsdan\\.nuget\\packages\\librdkafka.redist\\2.5.0\\librdkafka.redist.2.5.0.nupkg.sha512",
+    "C:\\Users\\jsdan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\jsdan\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\jsdan\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

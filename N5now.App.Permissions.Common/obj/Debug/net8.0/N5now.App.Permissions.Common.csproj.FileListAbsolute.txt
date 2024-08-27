@@ -1,0 +1,12 @@
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Common\bin\Debug\net8.0\N5now.App.Permissions.Common.deps.json
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Common\bin\Debug\net8.0\N5now.App.Permissions.Common.dll
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Common\bin\Debug\net8.0\N5now.App.Permissions.Common.pdb
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Common\obj\Debug\net8.0\N5now.App.Permissions.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Common\obj\Debug\net8.0\N5now.App.Permissions.Common.AssemblyInfoInputs.cache
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Common\obj\Debug\net8.0\N5now.App.Permissions.Common.AssemblyInfo.cs
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Common\obj\Debug\net8.0\N5now.App.Permissions.Common.csproj.CoreCompileInputs.cache
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Common\obj\Debug\net8.0\N5now.App.Permissions.Common.dll
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Common\obj\Debug\net8.0\refint\N5now.App.Permissions.Common.dll
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Common\obj\Debug\net8.0\N5now.App.Permissions.Common.pdb
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Common\obj\Debug\net8.0\ref\N5now.App.Permissions.Common.dll
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Common\obj\Debug\net8.0\N5now.App.Permissions.Common.csproj.AssemblyReference.cache

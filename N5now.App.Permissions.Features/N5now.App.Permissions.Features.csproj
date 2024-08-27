@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="FluentValidation" Version="11.9.2" />
+    <PackageReference Include="MediatR" Version="12.4.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.8" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\N5now.App.Infrastructure.Elasticsearch\N5now.App.Infrastructure.Elasticsearch.csproj" />
+    <ProjectReference Include="..\N5now.App.Infrastructure.Kafka\N5now.App.Infrastructure.Kafka.csproj" />
+    <ProjectReference Include="..\N5now.App.Permissions.Common\N5now.App.Permissions.Common.csproj" />
+    <ProjectReference Include="..\N5now.App.Permissions.Repository\N5now.App.Permissions.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

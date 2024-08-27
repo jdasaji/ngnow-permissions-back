@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.8" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="8.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\N5now.App.Infrastructure.Elasticsearch\N5now.App.Infrastructure.Elasticsearch.csproj" />
+    <ProjectReference Include="..\N5now.App.Infrastructure.Kafka\N5now.App.Infrastructure.Kafka.csproj" />
+    <ProjectReference Include="..\N5now.App.Permissions.AutoMappers\N5now.App.Permissions.AutoMappers.csproj" />
+    <ProjectReference Include="..\N5now.App.Permissions.Common\N5now.App.Permissions.Common.csproj" />
+    <ProjectReference Include="..\N5now.App.Permissions.DataLayer\N5now.App.Permissions.DataLayer.csproj" />
+    <ProjectReference Include="..\N5now.App.Permissions.Domain\N5now.App.Permissions.Domain.csproj" />
+    <ProjectReference Include="..\N5now.App.Permissions.Features.Test\N5now.App.Permissions.Features.Test.csproj" />
+    <ProjectReference Include="..\N5now.App.Permissions.Features\N5now.App.Permissions.Features.csproj" />
+    <ProjectReference Include="..\N5now.App.Permissions.Repository\N5now.App.Permissions.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

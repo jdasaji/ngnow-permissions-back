@@ -1,0 +1,11 @@
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Elasticsearch\bin\Debug\net8.0\N5now.App.Permissions.Elasticsearch.deps.json
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Elasticsearch\bin\Debug\net8.0\N5now.App.Permissions.Elasticsearch.dll
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Elasticsearch\bin\Debug\net8.0\N5now.App.Permissions.Elasticsearch.pdb
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Elasticsearch\obj\Debug\net8.0\N5now.App.Permissions.Elasticsearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Elasticsearch\obj\Debug\net8.0\N5now.App.Permissions.Elasticsearch.AssemblyInfoInputs.cache
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Elasticsearch\obj\Debug\net8.0\N5now.App.Permissions.Elasticsearch.AssemblyInfo.cs
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Elasticsearch\obj\Debug\net8.0\N5now.App.Permissions.Elasticsearch.csproj.CoreCompileInputs.cache
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Elasticsearch\obj\Debug\net8.0\N5now.App.Permissions.Elasticsearch.dll
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Elasticsearch\obj\Debug\net8.0\refint\N5now.App.Permissions.Elasticsearch.dll
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Elasticsearch\obj\Debug\net8.0\N5now.App.Permissions.Elasticsearch.pdb
+C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Elasticsearch\obj\Debug\net8.0\ref\N5now.App.Permissions.Elasticsearch.dll

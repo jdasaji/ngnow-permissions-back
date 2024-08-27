@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BhlsU6cHm73o1DlnwWAsd4pb4LatEWRG5qp3fxgxsZU=",
+  "Source": "N5now.App.Permissions.Api",
+  "BasePath": "_content/N5now.App.Permissions.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

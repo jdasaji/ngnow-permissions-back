@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "71onUWkYS48=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jsdan\\OneDrive\\Fuentes_Trabajo\\n5now-dofuscator\\N5now.App.Permissions\\N5now.App.Infrastructure.Elasticsearch\\N5now.App.Infrastructure.Elasticsearch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jsdan\\.nuget\\packages\\elastic.clients.elasticsearch\\8.15.2\\elastic.clients.elasticsearch.8.15.2.nupkg.sha512",
+    "C:\\Users\\jsdan\\.nuget\\packages\\elastic.transport\\0.4.22\\elastic.transport.0.4.22.nupkg.sha512",
+    "C:\\Users\\jsdan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\jsdan\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\jsdan\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
