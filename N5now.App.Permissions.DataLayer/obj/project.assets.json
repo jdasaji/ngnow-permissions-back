@@ -2806,11 +2806,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jsdan\\OneDrive\\Fuentes_Trabajo\\n5now-dofuscator\\N5now.App.Permissions\\N5now.App.Permissions.DataLayer\\N5now.App.Permissions.DataLayer.csproj",
+      "projectUniqueName": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.DataLayer\\N5now.App.Permissions.DataLayer.csproj",
       "projectName": "N5now.App.Permissions.DataLayer",
-      "projectPath": "C:\\Users\\jsdan\\OneDrive\\Fuentes_Trabajo\\n5now-dofuscator\\N5now.App.Permissions\\N5now.App.Permissions.DataLayer\\N5now.App.Permissions.DataLayer.csproj",
+      "projectPath": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.DataLayer\\N5now.App.Permissions.DataLayer.csproj",
       "packagesPath": "C:\\Users\\jsdan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jsdan\\OneDrive\\Fuentes_Trabajo\\n5now-dofuscator\\N5now.App.Permissions\\N5now.App.Permissions.DataLayer\\obj\\",
+      "outputPath": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.DataLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2832,8 +2832,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\jsdan\\OneDrive\\Fuentes_Trabajo\\n5now-dofuscator\\N5now.App.Permissions\\N5now.App.Permissions.Domain\\N5now.App.Permissions.Domain.csproj": {
-              "projectPath": "C:\\Users\\jsdan\\OneDrive\\Fuentes_Trabajo\\n5now-dofuscator\\N5now.App.Permissions\\N5now.App.Permissions.Domain\\N5now.App.Permissions.Domain.csproj"
+            "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Domain\\N5now.App.Permissions.Domain.csproj": {
+              "projectPath": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Domain\\N5now.App.Permissions.Domain.csproj"
             }
           }
         }

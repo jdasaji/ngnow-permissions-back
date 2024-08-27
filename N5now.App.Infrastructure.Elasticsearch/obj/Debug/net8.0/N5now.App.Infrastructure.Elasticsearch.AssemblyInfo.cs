@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("N5now.App.Infrastructure.Elasticsearch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6411b9dc2deb56478f5f8f5f61271ad70bcd8fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("N5now.App.Infrastructure.Elasticsearch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("N5now.App.Infrastructure.Elasticsearch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

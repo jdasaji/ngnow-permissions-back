@@ -1,14 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jsdan\\OneDrive\\Fuentes_Trabajo\\n5now-dofuscator\\N5now.App.Permissions\\",
+  "WorkspaceRootPath": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB3ECB1D-E20F-4454-BAEB-B52BAA8DE8C0}|N5now.App.Permissions.Api\\N5now.App.Permissions.Api.csproj|c:\\users\\jsdan\\onedrive\\fuentes_trabajo\\n5now-dofuscator\\n5now.app.permissions\\n5now.app.permissions.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CB3ECB1D-E20F-4454-BAEB-B52BAA8DE8C0}|N5now.App.Permissions.Api\\N5now.App.Permissions.Api.csproj|solutionrelative:n5now.app.permissions.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{6AF52C86-4F5B-414A-B4F5-5B10E9EC4DF0}|N5now.App.Permissions.Features.Test\\N5now.App.Permissions.Features.Test.csproj|c:\\users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\n5now.app.permissions.features.test\\permissionsupdatecommandhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AF52C86-4F5B-414A-B4F5-5B10E9EC4DF0}|N5now.App.Permissions.Features.Test\\N5now.App.Permissions.Features.Test.csproj|solutionrelative:n5now.app.permissions.features.test\\permissionsupdatecommandhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB3ECB1D-E20F-4454-BAEB-B52BAA8DE8C0}|N5now.App.Permissions.Api\\N5now.App.Permissions.Api.csproj|c:\\users\\jsdan\\onedrive\\fuentes_trabajo\\n5now-dofuscator\\n5now.app.permissions\\n5now.app.permissions.api\\controllers\\permissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB3ECB1D-E20F-4454-BAEB-B52BAA8DE8C0}|N5now.App.Permissions.Api\\N5now.App.Permissions.Api.csproj|solutionrelative:n5now.app.permissions.api\\controllers\\permissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C8CF634-6E43-4B63-B5B3-FB9BA5B563F0}|N5now.App.Permissions.Features\\N5now.App.Permissions.Features.csproj|c:\\users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\n5now.app.permissions.features\\permissions\\commands\\permissionsupdate\\permissionsupdatecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8CF634-6E43-4B63-B5B3-FB9BA5B563F0}|N5now.App.Permissions.Features\\N5now.App.Permissions.Features.csproj|solutionrelative:n5now.app.permissions.features\\permissions\\commands\\permissionsupdate\\permissionsupdatecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF52C86-4F5B-414A-B4F5-5B10E9EC4DF0}|N5now.App.Permissions.Features.Test\\N5now.App.Permissions.Features.Test.csproj|c:\\users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\n5now.app.permissions.features.test\\permissionsrequestcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AF52C86-4F5B-414A-B4F5-5B10E9EC4DF0}|N5now.App.Permissions.Features.Test\\N5now.App.Permissions.Features.Test.csproj|solutionrelative:n5now.app.permissions.features.test\\permissionsrequestcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E289924-482A-4F09-A9B1-72F54CC1B9D8}|N5now.App.Permissions.DataLayer\\N5now.App.Permissions.DataLayer.csproj|c:\\users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\n5now.app.permissions.datalayer\\configuration\\permissionstypeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E289924-482A-4F09-A9B1-72F54CC1B9D8}|N5now.App.Permissions.DataLayer\\N5now.App.Permissions.DataLayer.csproj|solutionrelative:n5now.app.permissions.datalayer\\configuration\\permissionstypeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8CF634-6E43-4B63-B5B3-FB9BA5B563F0}|N5now.App.Permissions.Features\\N5now.App.Permissions.Features.csproj|c:\\users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\n5now.app.permissions.features\\permissions\\commands\\permissionsrequest\\permissionsrequestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8CF634-6E43-4B63-B5B3-FB9BA5B563F0}|N5now.App.Permissions.Features\\N5now.App.Permissions.Features.csproj|solutionrelative:n5now.app.permissions.features\\permissions\\commands\\permissionsrequest\\permissionsrequestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8CF634-6E43-4B63-B5B3-FB9BA5B563F0}|N5now.App.Permissions.Features\\N5now.App.Permissions.Features.csproj|c:\\users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\n5now.app.permissions.features\\commandhandler\\icommandhandlerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8CF634-6E43-4B63-B5B3-FB9BA5B563F0}|N5now.App.Permissions.Features\\N5now.App.Permissions.Features.csproj|solutionrelative:n5now.app.permissions.features\\commandhandler\\icommandhandlerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8CF634-6E43-4B63-B5B3-FB9BA5B563F0}|N5now.App.Permissions.Features\\N5now.App.Permissions.Features.csproj|c:\\users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\n5now.app.permissions.features\\commandhandler\\validationfailureextends.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8CF634-6E43-4B63-B5B3-FB9BA5B563F0}|N5now.App.Permissions.Features\\N5now.App.Permissions.Features.csproj|solutionrelative:n5now.app.permissions.features\\commandhandler\\validationfailureextends.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8CF634-6E43-4B63-B5B3-FB9BA5B563F0}|N5now.App.Permissions.Features\\N5now.App.Permissions.Features.csproj|c:\\users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\n5now.app.permissions.features\\permissions\\commands\\permissionsrequest\\permissionsrequestcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8CF634-6E43-4B63-B5B3-FB9BA5B563F0}|N5now.App.Permissions.Features\\N5now.App.Permissions.Features.csproj|solutionrelative:n5now.app.permissions.features\\permissions\\commands\\permissionsrequest\\permissionsrequestcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8CF634-6E43-4B63-B5B3-FB9BA5B563F0}|N5now.App.Permissions.Features\\N5now.App.Permissions.Features.csproj|c:\\users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\n5now.app.permissions.features\\permissions\\commands\\permissionsrequest\\permissionsrequestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8CF634-6E43-4B63-B5B3-FB9BA5B563F0}|N5now.App.Permissions.Features\\N5now.App.Permissions.Features.csproj|solutionrelative:n5now.app.permissions.features\\permissions\\commands\\permissionsrequest\\permissionsrequestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8CF634-6E43-4B63-B5B3-FB9BA5B563F0}|N5now.App.Permissions.Features\\N5now.App.Permissions.Features.csproj|c:\\users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\n5now.app.permissions.features\\permissions\\commands\\permissionsupdate\\permissionsupdatecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8CF634-6E43-4B63-B5B3-FB9BA5B563F0}|N5now.App.Permissions.Features\\N5now.App.Permissions.Features.csproj|solutionrelative:n5now.app.permissions.features\\permissions\\commands\\permissionsupdate\\permissionsupdatecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8CF634-6E43-4B63-B5B3-FB9BA5B563F0}|N5now.App.Permissions.Features\\N5now.App.Permissions.Features.csproj|c:\\users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\n5now.app.permissions.features\\permissions\\commands\\permissionsupdate\\permissionsupdatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8CF634-6E43-4B63-B5B3-FB9BA5B563F0}|N5now.App.Permissions.Features\\N5now.App.Permissions.Features.csproj|solutionrelative:n5now.app.permissions.features\\permissions\\commands\\permissionsupdate\\permissionsupdatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3ECB1D-E20F-4454-BAEB-B52BAA8DE8C0}|N5now.App.Permissions.Api\\N5now.App.Permissions.Api.csproj|c:\\users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\n5now.app.permissions.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3ECB1D-E20F-4454-BAEB-B52BAA8DE8C0}|N5now.App.Permissions.Api\\N5now.App.Permissions.Api.csproj|solutionrelative:n5now.app.permissions.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +58,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PermissionsUpdateCommandHandlerTest.cs",
+              "DocumentMoniker": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Features.Test\\PermissionsUpdateCommandHandlerTest.cs",
+              "RelativeDocumentMoniker": "N5now.App.Permissions.Features.Test\\PermissionsUpdateCommandHandlerTest.cs",
+              "ToolTip": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Features.Test\\PermissionsUpdateCommandHandlerTest.cs",
+              "RelativeToolTip": "N5now.App.Permissions.Features.Test\\PermissionsUpdateCommandHandlerTest.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:58:37.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PermissionsRequestCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Features.Test\\PermissionsRequestCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "N5now.App.Permissions.Features.Test\\PermissionsRequestCommandHandlerTests.cs",
+              "ToolTip": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Features.Test\\PermissionsRequestCommandHandlerTests.cs",
+              "RelativeToolTip": "N5now.App.Permissions.Features.Test\\PermissionsRequestCommandHandlerTests.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAUwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:43:55.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PermissionsTypeConfig.cs",
+              "DocumentMoniker": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.DataLayer\\Configuration\\PermissionsTypeConfig.cs",
+              "RelativeDocumentMoniker": "N5now.App.Permissions.DataLayer\\Configuration\\PermissionsTypeConfig.cs",
+              "ToolTip": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.DataLayer\\Configuration\\PermissionsTypeConfig.cs",
+              "RelativeToolTip": "N5now.App.Permissions.DataLayer\\Configuration\\PermissionsTypeConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:42:35.347Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
@@ -30,28 +109,119 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\jsdan\\OneDrive\\Fuentes_Trabajo\\n5now-dofuscator\\N5now.App.Permissions\\N5now.App.Permissions.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "N5now.App.Permissions.Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\jsdan\\OneDrive\\Fuentes_Trabajo\\n5now-dofuscator\\N5now.App.Permissions\\N5now.App.Permissions.Api\\appsettings.json",
-              "RelativeToolTip": "N5now.App.Permissions.Api\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-27T04:04:29.974Z",
+              "DocumentIndex": 1,
+              "Title": "PermissionsUpdateCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Features\\Permissions\\Commands\\PermissionsUpdate\\PermissionsUpdateCommandHandler.cs",
+              "RelativeDocumentMoniker": "N5now.App.Permissions.Features\\Permissions\\Commands\\PermissionsUpdate\\PermissionsUpdateCommandHandler.cs",
+              "ToolTip": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Features\\Permissions\\Commands\\PermissionsUpdate\\PermissionsUpdateCommandHandler.cs",
+              "RelativeToolTip": "N5now.App.Permissions.Features\\Permissions\\Commands\\PermissionsUpdate\\PermissionsUpdateCommandHandler.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAIwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:42:07.737Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PermissionsController.cs",
-              "DocumentMoniker": "C:\\Users\\jsdan\\OneDrive\\Fuentes_Trabajo\\n5now-dofuscator\\N5now.App.Permissions\\N5now.App.Permissions.Api\\Controllers\\PermissionsController.cs",
-              "RelativeDocumentMoniker": "N5now.App.Permissions.Api\\Controllers\\PermissionsController.cs",
-              "ToolTip": "C:\\Users\\jsdan\\OneDrive\\Fuentes_Trabajo\\n5now-dofuscator\\N5now.App.Permissions\\N5now.App.Permissions.Api\\Controllers\\PermissionsController.cs",
-              "RelativeToolTip": "N5now.App.Permissions.Api\\Controllers\\PermissionsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "DocumentIndex": 6,
+              "Title": "ValidationFailureExtends.cs",
+              "DocumentMoniker": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Features\\commandhandler\\ValidationFailureExtends.cs",
+              "RelativeDocumentMoniker": "N5now.App.Permissions.Features\\commandhandler\\ValidationFailureExtends.cs",
+              "ToolTip": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Features\\commandhandler\\ValidationFailureExtends.cs",
+              "RelativeToolTip": "N5now.App.Permissions.Features\\commandhandler\\ValidationFailureExtends.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T03:42:37.174Z",
+              "WhenOpened": "2024-08-27T04:42:15.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PermissionsRequestCommand.cs",
+              "DocumentMoniker": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Features\\Permissions\\Commands\\PermissionsRequest\\PermissionsRequestCommand.cs",
+              "RelativeDocumentMoniker": "N5now.App.Permissions.Features\\Permissions\\Commands\\PermissionsRequest\\PermissionsRequestCommand.cs",
+              "ToolTip": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Features\\Permissions\\Commands\\PermissionsRequest\\PermissionsRequestCommand.cs",
+              "RelativeToolTip": "N5now.App.Permissions.Features\\Permissions\\Commands\\PermissionsRequest\\PermissionsRequestCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:41:54.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PermissionsRequestCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Features\\Permissions\\Commands\\PermissionsRequest\\PermissionsRequestCommandHandler.cs",
+              "RelativeDocumentMoniker": "N5now.App.Permissions.Features\\Permissions\\Commands\\PermissionsRequest\\PermissionsRequestCommandHandler.cs",
+              "ToolTip": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Features\\Permissions\\Commands\\PermissionsRequest\\PermissionsRequestCommandHandler.cs",
+              "RelativeToolTip": "N5now.App.Permissions.Features\\Permissions\\Commands\\PermissionsRequest\\PermissionsRequestCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:41:52.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICommandHandlerBase.cs",
+              "DocumentMoniker": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Features\\commandhandler\\ICommandHandlerBase.cs",
+              "RelativeDocumentMoniker": "N5now.App.Permissions.Features\\commandhandler\\ICommandHandlerBase.cs",
+              "ToolTip": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Features\\commandhandler\\ICommandHandlerBase.cs",
+              "RelativeToolTip": "N5now.App.Permissions.Features\\commandhandler\\ICommandHandlerBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:41:39.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PermissionsRequestCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Features\\Permissions\\Commands\\PermissionsRequest\\PermissionsRequestCommandValidator.cs",
+              "RelativeDocumentMoniker": "N5now.App.Permissions.Features\\Permissions\\Commands\\PermissionsRequest\\PermissionsRequestCommandValidator.cs",
+              "ToolTip": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Features\\Permissions\\Commands\\PermissionsRequest\\PermissionsRequestCommandValidator.cs",
+              "RelativeToolTip": "N5now.App.Permissions.Features\\Permissions\\Commands\\PermissionsRequest\\PermissionsRequestCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:41:56.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PermissionsUpdateCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Features\\Permissions\\Commands\\PermissionsUpdate\\PermissionsUpdateCommandValidator.cs",
+              "RelativeDocumentMoniker": "N5now.App.Permissions.Features\\Permissions\\Commands\\PermissionsUpdate\\PermissionsUpdateCommandValidator.cs",
+              "ToolTip": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Features\\Permissions\\Commands\\PermissionsUpdate\\PermissionsUpdateCommandValidator.cs",
+              "RelativeToolTip": "N5now.App.Permissions.Features\\Permissions\\Commands\\PermissionsUpdate\\PermissionsUpdateCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:42:06.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PermissionsUpdateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Features\\Permissions\\Commands\\PermissionsUpdate\\PermissionsUpdateCommand.cs",
+              "RelativeDocumentMoniker": "N5now.App.Permissions.Features\\Permissions\\Commands\\PermissionsUpdate\\PermissionsUpdateCommand.cs",
+              "ToolTip": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Features\\Permissions\\Commands\\PermissionsUpdate\\PermissionsUpdateCommand.cs",
+              "RelativeToolTip": "N5now.App.Permissions.Features\\Permissions\\Commands\\PermissionsUpdate\\PermissionsUpdateCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:42:02.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Api\\Program.cs",
+              "RelativeDocumentMoniker": "N5now.App.Permissions.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Api\\Program.cs",
+              "RelativeToolTip": "N5now.App.Permissions.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:38:14.295Z",
               "EditorCaption": ""
             }
           ]

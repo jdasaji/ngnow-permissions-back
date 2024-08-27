@@ -1,17 +1,96 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jsdan\\OneDrive\\Fuentes_Trabajo\\n5now-dofuscator\\N5now.App.Permissions\\N5now.App.Permissions.Features.Test\\N5now.App.Permissions.Features.Test.csproj": {}
+    "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Features.Test\\N5now.App.Permissions.Features.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jsdan\\OneDrive\\Fuentes_Trabajo\\n5now-dofuscator\\N5now.App.Permissions\\N5now.App.Permissions.Features.Test\\N5now.App.Permissions.Features.Test.csproj": {
+    "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Infrastructure.Elasticsearch\\N5now.App.Infrastructure.Elasticsearch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jsdan\\OneDrive\\Fuentes_Trabajo\\n5now-dofuscator\\N5now.App.Permissions\\N5now.App.Permissions.Features.Test\\N5now.App.Permissions.Features.Test.csproj",
-        "projectName": "N5now.App.Permissions.Features.Test",
-        "projectPath": "C:\\Users\\jsdan\\OneDrive\\Fuentes_Trabajo\\n5now-dofuscator\\N5now.App.Permissions\\N5now.App.Permissions.Features.Test\\N5now.App.Permissions.Features.Test.csproj",
+        "projectUniqueName": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Infrastructure.Elasticsearch\\N5now.App.Infrastructure.Elasticsearch.csproj",
+        "projectName": "N5now.App.Infrastructure.Elasticsearch",
+        "projectPath": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Infrastructure.Elasticsearch\\N5now.App.Infrastructure.Elasticsearch.csproj",
         "packagesPath": "C:\\Users\\jsdan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jsdan\\OneDrive\\Fuentes_Trabajo\\n5now-dofuscator\\N5now.App.Permissions\\N5now.App.Permissions.Features.Test\\obj\\",
+        "outputPath": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Infrastructure.Elasticsearch\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jsdan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Domain\\N5now.App.Permissions.Domain.csproj": {
+                "projectPath": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Domain\\N5now.App.Permissions.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Elastic.Clients.Elasticsearch": {
+              "target": "Package",
+              "version": "[8.15.2, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Infrastructure.Kafka\\N5now.App.Infrastructure.Kafka.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Infrastructure.Kafka\\N5now.App.Infrastructure.Kafka.csproj",
+        "projectName": "N5now.App.Infrastructure.Kafka",
+        "projectPath": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Infrastructure.Kafka\\N5now.App.Infrastructure.Kafka.csproj",
+        "packagesPath": "C:\\Users\\jsdan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Infrastructure.Kafka\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +128,531 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[2.5.2, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Common\\N5now.App.Permissions.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Common\\N5now.App.Permissions.Common.csproj",
+        "projectName": "N5now.App.Permissions.Common",
+        "projectPath": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Common\\N5now.App.Permissions.Common.csproj",
+        "packagesPath": "C:\\Users\\jsdan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jsdan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.DataLayer\\N5now.App.Permissions.DataLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.DataLayer\\N5now.App.Permissions.DataLayer.csproj",
+        "projectName": "N5now.App.Permissions.DataLayer",
+        "projectPath": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.DataLayer\\N5now.App.Permissions.DataLayer.csproj",
+        "packagesPath": "C:\\Users\\jsdan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.DataLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jsdan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Domain\\N5now.App.Permissions.Domain.csproj": {
+                "projectPath": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Domain\\N5now.App.Permissions.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Domain\\N5now.App.Permissions.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Domain\\N5now.App.Permissions.Domain.csproj",
+        "projectName": "N5now.App.Permissions.Domain",
+        "projectPath": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Domain\\N5now.App.Permissions.Domain.csproj",
+        "packagesPath": "C:\\Users\\jsdan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jsdan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Features.Test\\N5now.App.Permissions.Features.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Features.Test\\N5now.App.Permissions.Features.Test.csproj",
+        "projectName": "N5now.App.Permissions.Features.Test",
+        "projectPath": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Features.Test\\N5now.App.Permissions.Features.Test.csproj",
+        "packagesPath": "C:\\Users\\jsdan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Features.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jsdan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Common\\N5now.App.Permissions.Common.csproj": {
+                "projectPath": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Common\\N5now.App.Permissions.Common.csproj"
+              },
+              "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.DataLayer\\N5now.App.Permissions.DataLayer.csproj": {
+                "projectPath": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.DataLayer\\N5now.App.Permissions.DataLayer.csproj"
+              },
+              "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Domain\\N5now.App.Permissions.Domain.csproj": {
+                "projectPath": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Domain\\N5now.App.Permissions.Domain.csproj"
+              },
+              "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Features\\N5now.App.Permissions.Features.csproj": {
+                "projectPath": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Features\\N5now.App.Permissions.Features.csproj"
+              },
+              "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Repository\\N5now.App.Permissions.Repository.csproj": {
+                "projectPath": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Repository\\N5now.App.Permissions.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[2.5.2, )"
+            },
+            "Elastic.Clients.Elasticsearch": {
+              "target": "Package",
+              "version": "[8.15.2, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.11.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Features\\N5now.App.Permissions.Features.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Features\\N5now.App.Permissions.Features.csproj",
+        "projectName": "N5now.App.Permissions.Features",
+        "projectPath": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Features\\N5now.App.Permissions.Features.csproj",
+        "packagesPath": "C:\\Users\\jsdan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Features\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jsdan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Infrastructure.Elasticsearch\\N5now.App.Infrastructure.Elasticsearch.csproj": {
+                "projectPath": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Infrastructure.Elasticsearch\\N5now.App.Infrastructure.Elasticsearch.csproj"
+              },
+              "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Infrastructure.Kafka\\N5now.App.Infrastructure.Kafka.csproj": {
+                "projectPath": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Infrastructure.Kafka\\N5now.App.Infrastructure.Kafka.csproj"
+              },
+              "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Common\\N5now.App.Permissions.Common.csproj": {
+                "projectPath": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Common\\N5now.App.Permissions.Common.csproj"
+              },
+              "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Repository\\N5now.App.Permissions.Repository.csproj": {
+                "projectPath": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Repository\\N5now.App.Permissions.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Repository\\N5now.App.Permissions.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Repository\\N5now.App.Permissions.Repository.csproj",
+        "projectName": "N5now.App.Permissions.Repository",
+        "projectPath": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Repository\\N5now.App.Permissions.Repository.csproj",
+        "packagesPath": "C:\\Users\\jsdan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jsdan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.DataLayer\\N5now.App.Permissions.DataLayer.csproj": {
+                "projectPath": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.DataLayer\\N5now.App.Permissions.DataLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wJtee97NInM=",
+  "dgSpecHash": "pJW/C3rF3P8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jsdan\\OneDrive\\Fuentes_Trabajo\\n5now-dofuscator\\N5now.App.Permissions\\N5now.App.Permissions.Repository\\N5now.App.Permissions.Repository.csproj",
+  "projectFilePath": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Permissions.Repository\\N5now.App.Permissions.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jsdan\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\jsdan\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

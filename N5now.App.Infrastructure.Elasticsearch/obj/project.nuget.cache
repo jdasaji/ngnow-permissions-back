@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "71onUWkYS48=",
+  "dgSpecHash": "8W9Yuca8R00=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jsdan\\OneDrive\\Fuentes_Trabajo\\n5now-dofuscator\\N5now.App.Permissions\\N5now.App.Infrastructure.Elasticsearch\\N5now.App.Infrastructure.Elasticsearch.csproj",
+  "projectFilePath": "C:\\Users\\jsdan\\0-git\\n5now\\ngnow-permissions-back\\N5now.App.Infrastructure.Elasticsearch\\N5now.App.Infrastructure.Elasticsearch.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jsdan\\.nuget\\packages\\elastic.clients.elasticsearch\\8.15.2\\elastic.clients.elasticsearch.8.15.2.nupkg.sha512",
     "C:\\Users\\jsdan\\.nuget\\packages\\elastic.transport\\0.4.22\\elastic.transport.0.4.22.nupkg.sha512",

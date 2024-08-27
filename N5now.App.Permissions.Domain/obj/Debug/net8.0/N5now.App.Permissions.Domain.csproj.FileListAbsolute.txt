@@ -9,3 +9,15 @@ C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N
 C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Domain\obj\Debug\net8.0\refint\N5now.App.Permissions.Domain.dll
 C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Domain\obj\Debug\net8.0\N5now.App.Permissions.Domain.pdb
 C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\N5now.App.Permissions\N5now.App.Permissions.Domain\obj\Debug\net8.0\ref\N5now.App.Permissions.Domain.dll
+C:\Users\jsdan\0-git\n5now\ngnow-permissions-back\N5now.App.Permissions.Domain\bin\Debug\net8.0\N5now.App.Permissions.Domain.deps.json
+C:\Users\jsdan\0-git\n5now\ngnow-permissions-back\N5now.App.Permissions.Domain\bin\Debug\net8.0\N5now.App.Permissions.Domain.dll
+C:\Users\jsdan\0-git\n5now\ngnow-permissions-back\N5now.App.Permissions.Domain\bin\Debug\net8.0\N5now.App.Permissions.Domain.pdb
+C:\Users\jsdan\0-git\n5now\ngnow-permissions-back\N5now.App.Permissions.Domain\obj\Debug\net8.0\N5now.App.Permissions.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsdan\0-git\n5now\ngnow-permissions-back\N5now.App.Permissions.Domain\obj\Debug\net8.0\N5now.App.Permissions.Domain.AssemblyInfoInputs.cache
+C:\Users\jsdan\0-git\n5now\ngnow-permissions-back\N5now.App.Permissions.Domain\obj\Debug\net8.0\N5now.App.Permissions.Domain.AssemblyInfo.cs
+C:\Users\jsdan\0-git\n5now\ngnow-permissions-back\N5now.App.Permissions.Domain\obj\Debug\net8.0\N5now.App.Permissions.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jsdan\0-git\n5now\ngnow-permissions-back\N5now.App.Permissions.Domain\obj\Debug\net8.0\N5now.App.Permissions.Domain.sourcelink.json
+C:\Users\jsdan\0-git\n5now\ngnow-permissions-back\N5now.App.Permissions.Domain\obj\Debug\net8.0\N5now.App.Permissions.Domain.dll
+C:\Users\jsdan\0-git\n5now\ngnow-permissions-back\N5now.App.Permissions.Domain\obj\Debug\net8.0\refint\N5now.App.Permissions.Domain.dll
+C:\Users\jsdan\0-git\n5now\ngnow-permissions-back\N5now.App.Permissions.Domain\obj\Debug\net8.0\N5now.App.Permissions.Domain.pdb
+C:\Users\jsdan\0-git\n5now\ngnow-permissions-back\N5now.App.Permissions.Domain\obj\Debug\net8.0\ref\N5now.App.Permissions.Domain.dll

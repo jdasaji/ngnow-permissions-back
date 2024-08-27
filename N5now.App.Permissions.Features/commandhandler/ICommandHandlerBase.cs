@@ -1,9 +1,4 @@
-﻿// Decompiled with JetBrains decompiler
-// Type: N5now.App.Permissions.Features.commandhandler.ICommandHandlerBase`2
-// Assembly: N5now.App.Permissions.Features, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-// MVID: D2969A02-2035-45A3-A835-BB24C57C35F1
-// Assembly location: C:\Users\jsdan\OneDrive\Fuentes_Trabajo\n5now-dofuscator\compilado\N5now.App.Permissions.Features.dll
-
+﻿
 using FluentValidation;
 using FluentValidation.Results;
 using Microsoft.EntityFrameworkCore.Query;

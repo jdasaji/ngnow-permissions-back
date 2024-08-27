@@ -1,0 +1,67 @@
+.vs/
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos generados por el sistema operativo
+*.log
+*.tmp
+*.swp
+
+# Archivos y carpetas de build
+bin/
+obj/
+out/
+
+# Archivos generados por el compilador
+*.dll
+*.exe
+*.pdb
+*.cache
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de configuración específicos del entorno de desarrollo
+*.env
+*.env.local
+*.env.development
+*.env.test
+*.env.production
+
+# Configuración de la IDE y editores
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos y carpetas de dependencias
+*.nuget/
+*.nupkg
+
+# Configuración de herramientas de construcción
+/.gradle/
+/mvn/
+*.iml
+
+# Archivos específicos de entornos de prueba
+coverage/
+*.cover
+*.log
+
+# Archivos de configuración de paquetes
+*.dotnet/
+*.config
+project.lock.json
+project.fragment.lock.json
+
+# Paquetes de dotnet y archivos generados por las herramientas
+.nuget/
+*.nupkg
+*.snupkg
+
+# Archivos de caché de dotnet
+*.dotnet/

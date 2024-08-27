@@ -18,6 +18,10 @@ builder.Services.Configure<kafkaSettings>(builder.Configuration.GetSection("kafk
 
 
 builder.Services.AddInjectionInterface(builder.Configuration);
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("corsPolicy", bui => bui.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
+});
 
 var app = builder.Build();
 
@@ -31,6 +35,8 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
+
+app.UseCors("corsPolicy");
 
 app.MapControllers();
 
